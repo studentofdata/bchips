@@ -1,0 +1,64 @@
+FirstName,LastName,Email,Organization,Arizona,California,Colorado,Idaho,Montana,Nevada,New.Mexico,Oregon,Texas,Utah,Washington,Wyoming
+Mark,Vitner,mark.vitner@wellsfargo.com,Wells Fargo,1,1,1,1,1,1,1,1,1,1,1,1
+David,Hemley,david.hemley@enmu.edu,Eastern New Mexico University,0,0,1,0,0,0,1,0,1,0,0,0
+Esmael,Adibi,adibi@chapman.edu,Chapman University,0,1,0,0,0,0,0,0,0,0,0,0
+Bret,Bertolin,bretb@dor.wa.gov,Office of the Forecast Council,0,0,0,0,0,0,0,0,0,0,1,0
+Brian,Cary,Brian.Cary@srpnet.com,Salt River Project,1,0,0,0,0,0,0,0,0,0,0,0
+Jamie,Cattanach,jamie.cattanach@swgas.com,Southwest Gas Corporation,0,0,0,0,0,1,0,0,0,0,0,0
+Dick,Conway,dickconway@cs.com,Conway Pederson Economics,0,0,0,0,0,0,0,0,0,0,1,0
+Dwight,Duncan,dwight@econlit.net,EconLit LLC,1,0,0,0,0,0,0,0,0,0,0,0
+Pete,Ewen,Peter.Ewen@pinnaclewest.com,Arizona Public Service,1,0,0,0,0,0,0,0,0,0,0,0
+Dennis,Foster,dennis.foster@nau.edu,NAU - BBER,1,0,0,0,0,0,0,0,0,0,0,0
+Tom,Fullerton,tomf@utep.edu,Univserity of Texas at El Paso,0,0,0,0,0,0,0,0,1,0,0,0
+Neal,Helm,nhelm@dadco.com,Neal Helm,1,0,0,0,0,0,0,0,0,0,0,0
+Mark,Knold,mknold@utah.gov,Utah Department of Workforce Services,0,0,0,0,0,0,0,0,0,1,0,0
+John,Lucking,JLucking@gmail.com,ECON-LINC,1,0,0,0,0,0,0,0,0,0,0,0
+Alan,Maguire,alan@aemaguire.com,The Maguire Company,1,0,0,0,0,0,0,0,0,0,0,0
+Ham,Nguyen,ham.nguyen@pgn.com,Portland General Electric,0,0,0,0,0,0,0,1,0,0,0,0
+Jerry,Nickelsburg,patricia.nomura@anderson.ucla.edu,UCLA - Business Forecasting Project,0,1,0,0,0,0,0,0,0,0,0,0
+Ray,Perryman,sheila@perrymangroup.com,Perryman Group,0,0,0,0,0,0,0,0,1,0,0,0
+Keith,Phillips,keith.r.phillips@dal.frb.org,Federal Reserve Bank of Dallas,0,0,0,0,0,0,0,0,1,0,0,0
+Elliot,Pollack,pollack@edpco.com,Elliot D. Pollack & Co.,1,0,0,0,0,0,0,0,0,0,0,0
+John,Restrepo,jrestrepo@rcg1.com,RCG Economics,0,0,0,0,0,1,0,0,0,0,0,0
+Debra,Roubik,droubik@cox.net,VisionEcon/Governing Star Group,1,0,0,0,0,0,0,0,0,0,0,0
+Tim,Sheesley,Tim.Sheesley@XCELENERGY.COM,Xcel Energy,0,0,1,0,0,0,0,0,0,0,0,0
+Stephen,Taddie,staddie@stellarmgt.com,Stellar Capital Management,1,0,0,0,0,0,0,0,0,0,0,0
+Mark,Thompson,mark@forecon.com,Forefront Economics,0,0,0,0,0,0,0,1,0,0,0,0
+Richard,Wobbekind,Richard.Wobbekind@Colorado.EDU,University of Colorado - Leeds,0,0,1,0,0,0,0,0,0,0,0,0
+Jack,York,Jack.york@azdoa.gov,Arizona Department of Administration,1,0,0,0,0,0,0,0,0,0,0,0
+Daniel,Bache,Daniel.Bache@azdoa.gov,Arizona Department of Administration,1,0,0,0,0,0,0,0,0,0,0,0
+Patrick,Lowe,Patrick.lowe@aps.com,Arizona Public Service,1,0,0,0,0,0,0,0,0,0,0,0
+#NAME,#NAME,rounds@edpco.com,Elliot D. Pollack & Co.,1,0,0,0,0,0,0,0,0,0,0,0
+Jill,Welch,welch@edpco.com,Elliot D. Pollack & Co.,1,0,0,0,0,0,0,0,0,0,0,0
+Hans,Holofsson,holofsson@azleg.gov,Joint Legislative Budget Committee,1,0,0,0,0,0,0,0,0,0,0,0
+George,Hammand,ghammond@email.arizona.edu,UA - Eller College,1,0,0,0,0,0,0,0,0,0,0,0
+Irena,Asmundson,irena.asmundson@dof.ca.gov,California Department of Finance,0,1,0,0,0,0,0,0,0,0,0,0
+Justin,Garosi,justin.garosi@lao.ca.gov,Legislative Analyst's Office,0,1,0,0,0,0,0,0,0,0,0,0
+Robert,Kleinhenz,robert.kleinhenz@laedc.org,LA County Economic Development Corp.,0,1,0,0,0,0,0,0,0,0,0,0
+Univserity of Pacific,University of Pacific,forecast@pacific.edu,University of the Pacific,0,1,0,0,0,0,0,0,0,0,0,0
+Yasuo,Nishiyama,yasuo.nishiyama@woodbury.edu,Woodbury University,0,1,0,0,0,0,0,0,0,0,0,0
+Natalie,Mullis,natalie.mullis@state.co.us,Colorado Legislative Council,0,0,1,0,0,0,0,0,0,0,0,0
+Nathaniel,Clayville,Nathaniel.clayville@dfm.idaho.gov,Idaho Divison of Financial Management,0,0,0,1,0,0,0,0,0,0,0,0
+Patrick,Barkey,Patrick.Barkey@umontana.edu,University of Montana,0,0,0,0,1,0,0,0,0,0,0,0
+#NAME,#NAME,jahays@nvdetr.org,"Dept. of Employment, Training & Rehab.",0,0,0,0,0,1,0,0,0,0,0,0
+RCG Economics,RCG Economics,bgoetting@rcg1.com,RCG Economics,0,0,0,0,0,1,0,0,0,0,0,0
+Brandy,Little,brandy.little@swgas.com,Southwest Gas Corporation,0,0,0,0,0,1,0,0,0,0,0,0
+Stephen,Miller,stephen.miller@unlv.edu,Univserity of Nevada at Las Vegas - CBER,0,0,0,0,0,1,0,0,0,0,0,0
+#NAME,#NAME,jeffm@unm.edu,University of New Mexico - BBER,0,0,0,0,0,0,1,0,0,0,0,0
+Joshua,Lehner,joshua.lehner@state.or.us,Oregon Executive Department,0,0,0,0,0,0,0,1,0,0,0,0
+Micheal,Cosgrove,mikecosgrove@econolast.com,Econolast,0,0,0,0,0,0,0,0,1,0,0,0
+Info,Info,info@perrymangroup.com,Perryman Group,0,0,0,0,0,0,0,0,1,0,0,0
+Ben,WeinStein,bweinstein@cox.smu.edu,Southern Methodist University,0,0,0,0,0,0,0,0,1,0,0,0
+Chris,Dittmar,chris.dittmar@cpa.state.tx.us,TX State Comptroller of Public Accounts,0,0,0,0,0,0,0,0,1,0,0,0
+CJ,Mayne,cjmayne@utah.gov,Utah Department of Workforce Services,0,0,0,0,0,0,0,0,0,1,0,0
+Nate,Curtis,nate.curtis@navigant.com,Navigant Consulting,1,0,0,0,0,0,0,0,0,0,0,0
+Tim,Binnings,tbinnings@comcast.net,Summit Economics,0,0,1,0,0,0,0,0,0,0,0,0
+Scott,Anderson,scott.a.anderson@wellsfargo.com,Wells Fargo,1,1,1,1,1,1,1,1,1,1,1,1
+Chris,Erickson,chrerick@nmsu.edu,New Mexico State University - CEMAF,0,0,0,0,0,0,1,0,0,0,0,0
+Bill,Conerly,bill@conerlyconsulting.com,Conerly Consulting,0,0,0,0,0,0,0,1,0,0,1,0
+Lee,McPheters,lee.mcpheters@asu.edu,ASU - Economic Outlook Center,1,0,0,0,0,0,0,0,0,0,0,0
+Wenlin,Liu,wenlin.liu@wyo.gov,WY Dept. of Administration & Information,0,0,0,0,0,0,0,0,0,0,0,1
+Robert,Row,rjrow@asu.edu,ASU - Economic Outlook Center,1,1,1,1,0,0,0,0,0,0,0,0
+#NAME,#NAME,sprit61@cox.net,Southwest Growth Partners,1,0,0,0,0,0,0,0,0,0,0,0
+Ben,FaAnunu,Ben.FaAnunu@azdoa.gov,Arizona Department of Administration,1,0,0,0,0,0,0,0,0,0,0,0
+Georganna,Meyer,Georganna@AEMaguire.com,The Maguire Company,1,0,0,0,0,0,0,0,0,0,0,0
