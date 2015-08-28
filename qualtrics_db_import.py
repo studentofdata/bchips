@@ -39,14 +39,17 @@ for report in reports:
     for state in states:
         date = report[16:-5]
         report_file = dir + "\\" + report
-        data = pd.read_excel(report_file, sheetname = "arizona")
+        data = pd.read_excel(report_file, sheetname = state)
         data['date'] = date
         df = df.append(data)
 
 dates = pd.to_datetime(df['date'], format = "%m-%Y")
 df['date'] = dates
-df = df.rename(columns={'States':'State'})
 
-df.to_sql('wbc_archive_load_test', engine, flavor = 'mysql', if_exists = 'replace', index = False)
+df['States'] = df['States'].str.title()
+df['Organization'] = df['Organization'].str.replace('Neil Helm', 'Neal Helm')
+
+
+df.to_sql('wbc_archive_load', engine, flavor = 'mysql', if_exists = 'replace', index = False)
 
 

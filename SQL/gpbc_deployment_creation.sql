@@ -18,7 +18,7 @@ CREATE TABLE `gpbc_deployment` (
   `Q6` double DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-LOAD DATA LOCAL INFILE 'C:/Users/rjrow.ASURITE/Desktop/wbc_gpbc/live_data_store/gpbc_2ndQtr_2015.csv' INTO TABLE gpbc_deployment
+LOAD DATA LOCAL INFILE 'C:/Users/rjrow.ASURITE/Desktop/wbc_gpbc/live_data_store/gpbc_live_deployment.csv' INTO TABLE gpbc_deployment
 COLUMNS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES

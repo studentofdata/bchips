@@ -15,8 +15,13 @@ now = datetime.datetime.now()
 
 engine = config.engine
 
+most_recent = time.strftime("%d_%m_%Y")
+
 ##
-wbc = pd.read_csv("qualtrics_pull_wbc_03_08_2015.csv")
+
+pull_name = "qualtrics_pull_wbc_" + most_recent + ".csv"
+
+wbc = pd.read_csv(pull_name)
 names = wbc.iloc[0,].tolist()
 wbc.columns = names
 wbc = wbc.iloc[1:,]
@@ -76,8 +81,12 @@ date_wbc = str(now.month) + "-" + str(now.year)
 dates = pd.to_datetime(date_wbc, format = "%m-%Y")
 
 wbc_v4['date'] = dates
+wbc_v4 = wbc_v4.rename(columns={'State':'States'})
 
+wbc_v4['States'] = wbc_v4['States'].str.title()
+wbc_v4['Organization'] = wbc_v4['Organization'].str.replace('Neil Helm', 'Neal Helm')
 
 wbc_v4.to_sql('load_table_new', engine, flavor = 'mysql', if_exists = 'replace', index = False)
 wbc_v4.to_csv(file_name)
 
+os.chdir(dir)

@@ -1,4 +1,4 @@
-#DROP TABLE wbc_panelists;
+DROP TABLE wbc_panelists;
 
 # FirstName
 # LastName
@@ -29,7 +29,7 @@ CREATE TABLE `wbc_panelists` (
   `idaho` int DEFAULT NULL,
   `montana` int DEFAULT 0,
   `nevada` int DEFAULT 0,
-  `new.mexico` int DEFAULT 0,
+  `new_mexico` int DEFAULT 0,
   `oregon` int DEFAULT 0,
   `texas` int DEFAULT 0,
   `utah` int DEFAULT 0,
@@ -37,8 +37,8 @@ CREATE TABLE `wbc_panelists` (
   `wyoming` int DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-LOAD DATA LOCAL INFILE 'C:/Users/rjrow.ASURITE/Desktop/wbc_gpbc/data/panelists_official.csv' INTO TABLE wbc_panelists
-COLUMNS TERMINATED BY ','
+LOAD DATA LOCAL INFILE 'C:/Users/rjrow.ASURITE/Desktop/wbc_gpbc/data/wbc_panelist_official.csv' INTO TABLE wbc_panelists
+COLUMNS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (FirstName,
@@ -51,7 +51,7 @@ colorado,
 idaho,
 montana,
 nevada,
-new.mexico,
+new_mexico,
 oregon,
 texas,
 utah,
